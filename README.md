@@ -3,6 +3,7 @@
 ## 🔬 Computational Researcher | Computer Vision & AI Specialist
 
 Computational researcher with over 7 years of experience developing vision-based and data-driven systems for healthcare and bioengineering applications. Proficient in Python, OpenCV, TensorFlow, and PyTorch, with expertise in real-time object detection, pose estimation, and 3D reconstruction algorithms. Recognized through publications and awards, demonstrating a strong commitment to advancing computational methods for biomedical research.
+
 ---
 
 ## 🌐 Connect With Me
