@@ -3,6 +3,12 @@
 ## 🔬 Computational Researcher | Computer Vision & AI Specialist
 
 Computational researcher with over 7 years of experience developing vision-based and data-driven systems for healthcare and bioengineering applications. Proficient in Python, OpenCV, TensorFlow, and PyTorch, with expertise in real-time object detection, pose estimation, and 3D reconstruction algorithms. Recognized through publications and awards, demonstrating a strong commitment to advancing computational methods for biomedical research.
+---
+
+## 🌐 Connect With Me
+
+[![Website](https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://sujithchristopher.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujith.christopher52@gmail.com)
 
 ---
 
@@ -34,12 +40,7 @@ Computational researcher with over 7 years of experience developing vision-based
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SujithChristopher&layout=compact&theme=radical)
 
----
 
-## 🌐 Connect With Me
-
-[![Website](https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://sujithchristopher.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujith.christopher52@gmail.com)
 
 ---
 
