@@ -37,11 +37,10 @@ Computational researcher with over 7 years of experience developing vision-based
 
 ## 📊 GitHub Stats
 
-![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=SujithChristopher&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SujithChristopher&layout=compact&theme=radical)
-
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SujithChristopher&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujithChristopher&layout=compact&theme=radical&hide_border=true"/>
+</div>
 
 ---
 
